@@ -1,0 +1,16 @@
+C:\Users\Vybhav A\Desktop\Vybhav A\bankaccount\bankaccount\bin\Debug\net5.0\bankaccount.exe
+C:\Users\Vybhav A\Desktop\Vybhav A\bankaccount\bankaccount\bin\Debug\net5.0\bankaccount.deps.json
+C:\Users\Vybhav A\Desktop\Vybhav A\bankaccount\bankaccount\bin\Debug\net5.0\bankaccount.runtimeconfig.json
+C:\Users\Vybhav A\Desktop\Vybhav A\bankaccount\bankaccount\bin\Debug\net5.0\bankaccount.runtimeconfig.dev.json
+C:\Users\Vybhav A\Desktop\Vybhav A\bankaccount\bankaccount\bin\Debug\net5.0\bankaccount.dll
+C:\Users\Vybhav A\Desktop\Vybhav A\bankaccount\bankaccount\bin\Debug\net5.0\ref\bankaccount.dll
+C:\Users\Vybhav A\Desktop\Vybhav A\bankaccount\bankaccount\bin\Debug\net5.0\bankaccount.pdb
+C:\Users\Vybhav A\Desktop\Vybhav A\bankaccount\bankaccount\obj\Debug\net5.0\bankaccount.csproj.AssemblyReference.cache
+C:\Users\Vybhav A\Desktop\Vybhav A\bankaccount\bankaccount\obj\Debug\net5.0\bankaccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vybhav A\Desktop\Vybhav A\bankaccount\bankaccount\obj\Debug\net5.0\bankaccount.AssemblyInfoInputs.cache
+C:\Users\Vybhav A\Desktop\Vybhav A\bankaccount\bankaccount\obj\Debug\net5.0\bankaccount.AssemblyInfo.cs
+C:\Users\Vybhav A\Desktop\Vybhav A\bankaccount\bankaccount\obj\Debug\net5.0\bankaccount.csproj.CoreCompileInputs.cache
+C:\Users\Vybhav A\Desktop\Vybhav A\bankaccount\bankaccount\obj\Debug\net5.0\bankaccount.dll
+C:\Users\Vybhav A\Desktop\Vybhav A\bankaccount\bankaccount\obj\Debug\net5.0\ref\bankaccount.dll
+C:\Users\Vybhav A\Desktop\Vybhav A\bankaccount\bankaccount\obj\Debug\net5.0\bankaccount.pdb
+C:\Users\Vybhav A\Desktop\Vybhav A\bankaccount\bankaccount\obj\Debug\net5.0\bankaccount.genruntimeconfig.cache
